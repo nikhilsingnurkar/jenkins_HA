@@ -8,3 +8,7 @@
 
 
 ### Good  HA solution for jenkins OSS but if job is running on active node and the node goes down job is lost.
+
+# Jenkins Backup and Restore
+
+Follow the steps in **Jenkins-backup-restore.docx** to backup and restore jenkins 
